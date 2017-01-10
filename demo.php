@@ -91,6 +91,4 @@ $(document).ready(function () {
 
 <div id="divRss3" class="nyhetsContainerDemo"></div>
 </div>
-</body>
-
-</html>
+<?php include ("incl/footer.php");?>
